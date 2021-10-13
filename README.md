@@ -8,4 +8,4 @@ My name is Kristians. I'm Software Developer currently specialing in PHP. I'm ea
 
 ### :open_file_folder: My latest projects
 
-- [Todo list](k-dimitrijevs/todo-task-v2)
+- [Todo list](https://github.com/k-dimitrijevs/todo-task-v2)
