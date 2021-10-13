@@ -10,5 +10,5 @@ My name is Kristians. I'm Software Developer currently specialing in PHP. I'm ea
 
 #### 📫 Reach Me
 
-[Linkedin](linkedin.com/in/kristians-dimitrijevs/).
+[Linkedin](www.linkedin.com/in/kristians-dimitrijevs/).
 
