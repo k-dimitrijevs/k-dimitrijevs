@@ -8,7 +8,6 @@
 
 My name is Kristians. I'm Software Developer currently specialing in PHP.
 
-## My GitHub statistics
+## 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-dimitrijevs)](https://github.com/anuraghazra/github-readme-stats)
 
