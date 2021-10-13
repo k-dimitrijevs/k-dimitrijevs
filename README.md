@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Kristians. I'm Software Developer currently specialing in PHP. I'm eager to take on new challenges and improve my skills as a Software Developer.
+My name is Kristians. I'm Software Developer currently specializing in PHP. I'm eager to take on new challenges and improve my skills as a Software Developer.
 
 ### 📫 Reach Me
 
