@@ -4,8 +4,8 @@ My name is Kristians. I'm Software Developer currently specialing in PHP. I'm ea
 
 ### 📫 Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/kristians-dimitrijevs/){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/in/kristians-dimitrijevs/)
 
 ### :open_file_folder: My latest projects
 
-- [Todo list](https://github.com/k-dimitrijevs/todo-task-v2){:target="_blank"}
+- [Todo list](https://github.com/k-dimitrijevs/todo-task-v2)
