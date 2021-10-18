@@ -5,6 +5,7 @@ My name is Kristians. I'm Software Developer currently specializing in PHP. I'm 
 ### 📫 Reach Me
 
 [LinkedIn](https://www.linkedin.com/in/kristians-dimitrijevs/)
+kristians.dimitrijevs@gmail.com
 
 ### :open_file_folder: My latest projects
 
