@@ -12,3 +12,13 @@ My name is Kristians. I'm Software Developer currently specializing in PHP. I'm 
 - [Todo List](https://github.com/k-dimitrijevs/todo-task-v2)
 - [Weather App](https://github.com/k-dimitrijevs/Weather)
 - [Basic Chat App](https://github.com/k-dimitrijevs/basic-chat)
+
+
+### 🧰 Toolbox
+
+- PHP
+- Laravel
+- MySQL
+- HTML
+- CSS
+- JavaScript (basics)
