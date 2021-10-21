@@ -21,4 +21,4 @@ My name is Kristians. I'm Software Developer currently specializing in PHP. I'm 
 - MySQL
 - HTML
 - CSS
-- JavaScript (basics)
+- JavaScript
