@@ -9,9 +9,12 @@ My name is Kristians. I'm Software Developer currently specializing in PHP. I'm 
 
 ### :open_file_folder: My latest projects
 
+- [Laravel Product Catalog](https://github.com/k-dimitrijevs/visi_forsi_produkti)
 - [Todo List](https://github.com/k-dimitrijevs/todo-task-v2)
 - [Weather App](https://github.com/k-dimitrijevs/Weather)
-- [Basic Chat App](https://github.com/k-dimitrijevs/basic-chat)
+- [Laravel Todo List](https://github.com/k-dimitrijevs/laravel-todo)
+- [Stock Trader App](https://github.com/k-dimitrijevs/Stock-Trader-App)
+
 
 
 ### 🧰 Toolbox
