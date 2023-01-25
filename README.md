@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-My name is Kristians. I'm Software Developer currently specializing in PHP. I'm eager to take on new challenges and improve my skills as a Software Developer.
+My name is Kristians. I'm a developer currently specializing mostly in Front-end (Vue.js, React, HTML, CSS). I also have experience in Back-end (PHP, Laravel, MySQL). I'm eager to take on new challenges and improve my skills as a Software Developer.
 
 ### 📫 Reach Me
 
